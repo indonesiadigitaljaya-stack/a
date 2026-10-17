@@ -1,0 +1,6 @@
+{
+  "name": "CID",
+  "description": "P2P-first digital identity, messaging, WebRTC calls, and CID Pay app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

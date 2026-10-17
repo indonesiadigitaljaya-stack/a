@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outline -->
+    <path
+        android:fillColor="#0066FF"
+        android:pathData="M54,20 L80,32 V54 C80,70.5 69,82 54,88 C39,82 28,70.5 28,54 V32 L54,20 Z" />
+    <!-- Inner Shield Accent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,26 L74,36 V54 C74,67 65,76.5 54,81.5 C43,76.5 34,67 34,54 V36 L54,26 Z" />
+    <!-- Node connections / Network -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 C50.7,42 48,44.7 48,48 C48,49.8 48.8,51.4 50,52.5 V58 C50,59.1 50.9,60 52,60 H56 C57.1,60 58,59.1 58,58 V52.5 C59.2,51.4 60,49.8 60,48 C60,44.7 57.3,42 54,42 Z" />
+</vector>
